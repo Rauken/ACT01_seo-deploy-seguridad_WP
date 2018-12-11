@@ -69,4 +69,39 @@ Luego de terminar, documenta todo el proceso que hiciste dentro de un **README.m
 Luego de terminar debes enviar los cambios (vía push) y subir el link del repositorio a la sección correspondiente en la plataforma [empieza](https://empieza.desafiolatam.com "Desafío Latam").
 
 ##### **Mucha suerte!**
+---------------------------------------------------------------------------------
+#Administrador
 
+- Usuario:    Paolo
+- Contraseña: 9vqWzHRtOU5AHSDeEz
+
+#KEYWORD PRINCIPAL
+
+1. En una frase ¿Cuál es el objetivo de la empresa?
+Aseo de oficinas
+2. ¿Qué es lo que vendes?
+Nuestro servicio integral basado en la confianza y rapidez
+3. ¿Qué servicios ofreces?
+Aseo de oficinas
+4. ¿Cuál es tu perfil de cliente?
+Medianas y grandes empresas que no quieren contratar personal de aseo.
+5. ¿Tienes tu negocio en lugar físico?
+Florinda Mesa 67, Quinta Normal, Santiago
+
+#Keywords
+![Screenshot de las Keywords](img/keywords.png)
+
+aseo de oficinas
+aseo oficinas part time lunes a viernes
+aseo nocturno oficinas
+empleo de aseo de oficinas
+trabajos de aseo en oficinas medio tiempo en region metropolitana
+aseo oficina medio tiempo
+aseo de oficinas por horas
+aseo de oficinas de lunes a viernes
+
+# Texto original
+
+En Kleaner S.A. somos una empresa dedicada al Aseo de oficinas, nuestro servicio integral esta basado en la confiazna y rapidez.
+Ofrecemos aseo de oficinas part time de lunes a viernes, aseo nocturno de oficinas, empleo de aseo de oficinas y trabajos de aseo en oficinas medio tiempo en region metropolitana.
+Trabajamos en aseo de oficinas por horas, con disposicion de lunes a viernes.
